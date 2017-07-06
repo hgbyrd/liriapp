@@ -1,5 +1,5 @@
 
-console.log('LIRI IS RUNNING');
+console.log('Garren is a boss - liri');
 
 exports.twitterKeys = {
   consumer_key: 'WL3koNWDA8BK5EnxJIQksxIoW',
